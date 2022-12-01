@@ -2,5 +2,5 @@ import pandas
 import Calculate
 
 print("Hello World")
-print(Calculate)
-
+print(Calculate.x)
+print(Calculate.y)
